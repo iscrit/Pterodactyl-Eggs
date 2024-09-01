@@ -1,4 +1,13 @@
 
+# Parkers eggs repo
+
+> [!WARNING]
+> 
+> Use these eggs at your risk, If something is broken open a issue.
+> ---
+> 
+> ***Notice:*** All eggs have been tested before pushed..
+>
 
 # 🥚 Pterodactyl Optimized Eggs
 
