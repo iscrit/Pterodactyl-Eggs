@@ -8,7 +8,7 @@
 > ***Notice:*** All eggs have been tested before pushed..
 >
 
-> [!ALERT]
+> [!TIP]
 > 
 > This contains eggs from parkerpcv
 > ---
