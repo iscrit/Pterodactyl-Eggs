@@ -1,5 +1,4 @@
 
-# Parkers eggs repo
 
 > [!WARNING]
 > 
@@ -7,6 +6,14 @@
 > ---
 > 
 > ***Notice:*** All eggs have been tested before pushed..
+>
+
+> [!ALERT]
+> 
+> This contains eggs from parkerpcv
+> ---
+> 
+> ***Notice:*** Eggs made by us will be noted.
 >
 
 # 🥚 Pterodactyl Optimized Eggs
